@@ -1,0 +1,143 @@
+#body1 {
+    background-color: black;
+}
+
+#header {
+    height: 200px;
+    align-content: center;
+    margin: auto;
+}
+
+
+#img_tailors {
+    background: url(tailors_logo.PNG);
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    margin-left: 43%;
+    margin: auto;
+
+}
+
+#menu {
+    position: relative;
+    margin-left: 41%;
+}
+
+.granuno {
+    width: 30%;
+    border: white 1px solid;
+    height: 300px;
+    position: relative;
+    left: 20px;
+    margin-top: 1px;
+
+}
+div:hover{
+    opacity: 0.5;
+    border: 1px aqua;
+    }
+.uno {
+    border: white 1px solid;
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(Captura1.PNG);
+    background-repeat: no-repeat;
+
+}
+
+.dos {
+    border: white 1px solid;
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(Captura.PNG);
+    background-repeat: no-repeat;
+    
+}
+
+.tres {
+    border: white 1px solid;
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(Captura3.PNG);
+
+    
+    
+
+
+}
+.cuatro { 
+    border: white 1px solid;
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(Captura4.PNG);
+    
+    
+}
+.cinco {
+    border: white 1px solid;  
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(Captura5.PNG);
+    
+
+
+}
+
+.seis{   
+    border: white 1px solid; 
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(Captura6.PNG);
+   
+    
+}
+
+h3{
+margin-left:800px;
+border-color: white;
+}
+h1{
+
+border-color:white;
+}
+li{
+    border-color: white;
+   
+}
+.ultima1{
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(ultima.1.PNG);
+
+}
+.ultima2{
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(ultima2..PNG);
+
+}
+.ultima3{
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(ultima.3.PNG);
+
+}
+h1{
+    border-color: white;
+    
+}
+h1{
+    border-color: white;
+}
+
